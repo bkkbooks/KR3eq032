@@ -1,0 +1,204 @@
+canonical_identifier: bkk:krp/KR3eq032/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq032/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 心醫集
+  identifiers:
+    krp: KR3eq032
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq032.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq032_000-jc.yaml, hash: 'sha256:d2bda5abd666bc2f41e5d882a4528c28dd0cfd89df8dca6f87c843304c4f1d07'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq032_000-jc.markers.yaml, hash: 'sha256:d062fce66357160c3a5dc27598e19d2836f808c11662f9e79b527fdaf98da1db'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 586
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.h1s1
+    span:
+    - body
+    - 586
+    - 16331
+  label: 靜功
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3d2
+    span:
+    - body
+    - 588
+    - 1402
+  label: 靜功妙藥醒語
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3d3
+    span:
+    - body
+    - 1402
+    - 2008
+  label: 靜功妙藥八懿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3d4
+    span:
+    - body
+    - 2008
+    - 2828
+  label: 靜功妙藥前珍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3d5
+    span:
+    - body
+    - 2828
+    - 16331
+  label: 靜功妙藥九種
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d4
+    span:
+    - body
+    - 3401
+    - 4249
+  label: 閉息
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d5
+    span:
+    - body
+    - 4249
+    - 8916
+  label: 導引
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d6
+    span:
+    - body
+    - 8916
+    - 9305
+  label: 八段錦
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d7
+    span:
+    - body
+    - 9305
+    - 9489
+  label: 八段錦詩
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d8
+    span:
+    - body
+    - 9489
+    - 9827
+  label: 十六字
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d9
+    span:
+    - body
+    - 9827
+    - 10037
+  label: 三字
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d10
+    span:
+    - body
+    - 10037
+    - 10093
+  label: 六字
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d11
+    span:
+    - body
+    - 10093
+    - 10440
+  label: 十二字
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d12
+    span:
+    - body
+    - 10440
+    - 12008
+  label: 七返九還
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d3.d5d13
+    span:
+    - body
+    - 12008
+    - 16331
+  label: 袁了凡靜功訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d4.h1s1
+    span:
+    - body
+    - 16331
+    - 23156
+  label: 紀驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq032_jc_000-d5.h1s1
+    span:
+    - body
+    - 23156
+    - 29378
+  label: 紀驗二刻
+  type: section
+  level: 1
+hash: sha256:355ab482768f92ab0b98bdc87dfdfcbf3571753ca111bf197ffbcf6385bc100e
